@@ -1,4 +1,4 @@
-*.txt
+.jar
 *.o
 libraries/
 *.exe
